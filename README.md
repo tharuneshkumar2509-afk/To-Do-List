@@ -281,4 +281,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👤 Author
 
-- **Jaiamar** — [GitHub Profile](https://github.com/Jaiamar)
+- **Tharunesh Kumar A** — [GitHub Profile](https://github.com/tharuneshkumar2509-afk)
